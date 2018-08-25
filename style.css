@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+}
+
+span{
+    color: whitesmoke;
+}
+
+body {
+    background: grey;
+}
+
+hr {
+    background: black;
+}
+
+#formulario {
+    color: red;
+    text-decoration-line: underline;
+}
+
+.class {
+     color: whitesmoke;
+}
+
+.buttom {
+    color: blue;
+    border-bottom-style: dashed;
+}
+
